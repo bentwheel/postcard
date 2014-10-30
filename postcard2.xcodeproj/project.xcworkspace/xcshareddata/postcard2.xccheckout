@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7BB874E8-C3A5-49AB-993F-FC750C0B59EC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>postcard2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D6496DC540E4CFAD7F52CED765E726D1A8CE88AF</key>
+		<string>github.com:bentwheel/postcard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>postcard2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D6496DC540E4CFAD7F52CED765E726D1A8CE88AF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:bentwheel/postcard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D6496DC540E4CFAD7F52CED765E726D1A8CE88AF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D6496DC540E4CFAD7F52CED765E726D1A8CE88AF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>postcard2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
